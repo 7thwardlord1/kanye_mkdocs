@@ -36,3 +36,7 @@ extra:
       link: https://twitter.com/kanyewest
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/kanyewest/
+theme:
+  name: material
+  logo: img/logo.png
+  favicon: img/favicon.ico
