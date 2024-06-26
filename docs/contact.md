@@ -1,6 +1,6 @@
 # Contact
 
-Feel free to reach out with any questions or comments about the album.
+Here's some of Kanye social networks.
 
 - **Twitter**: [@kanyewest](https://twitter.com/kanyewest)
 - **Instagram**: [@kanyewest](https://www.instagram.com/kanyewest/)
