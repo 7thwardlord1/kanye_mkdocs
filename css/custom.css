@@ -1,0 +1,35 @@
+body {
+  background-color: #ffffff;
+  color: #e30e3c;
+  font-family: 'Lora', serif;
+}
+
+.md-header, .md-header__inner, .md-header__title {
+  background-color: #e30e3c !important;
+  color: #ffffff;
+}
+
+.md-nav__link, .md-nav__title {
+  color: #e30e3c;
+}
+
+.md-footer {
+  background-color: #ffffff;
+}
+
+a {
+  color: #e30e3c;
+}
+
+a:hover {
+  color: #ff0000;
+}
+
+code, pre {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #000000 !important;
+}
+
