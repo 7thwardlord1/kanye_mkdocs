@@ -3,7 +3,7 @@
 ## Musical Journey
 Kanye West is an American rapper, producer, and fashion designer, born on June 8, 1977, in Atlanta, Georgia. He was raised in Chicago, Illinois. Kanye began his musical career as a producer for Roc-A-Fella Records, where he produced hits for artists such as Jay-Z, Ludacris, and Alicia Keys.
 
-### Before MBTDF
+### Before MBDTF
 Before "My Beautiful Dark Twisted Fantasy" (MBTDF), Kanye West had already released several critically acclaimed albums:
 
 - **The College Dropout (2004)**: Kanye's debut album, which established him as a major force in hip-hop with hits like "Jesus Walks" and "Through the Wire."
@@ -20,7 +20,7 @@ During the creation of MBTDF, Kanye faced significant personal challenges, inclu
 ### Musical Influences
 Kanye was influenced by a variety of artists and genres. He drew inspiration from classic rock bands like Pink Floyd and Led Zeppelin, contemporary artists like Bon Iver, and hip-hop legends such as A Tribe Called Quest and Wu-Tang Clan. This diverse array of influences helped shape the innovative sound of MBTDF.
 
-## The Making of MBTDF
+## The Making of MBDTF
 Recorded primarily in Hawaii, MBTDF was a collaborative effort involving many artists and producers. Kanye employed a meticulous and perfectionist approach, often working long hours to achieve the desired sound.
 
 ### Notable Collaborators
